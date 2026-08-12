@@ -1,0 +1,2 @@
+-- Retail Sales & Inventory Analytics
+-- Database table creation scripts
