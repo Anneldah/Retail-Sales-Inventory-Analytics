@@ -1,0 +1,16 @@
+CustomerID,FirstName,LastName,Email,Phone,City,CreatedDate
+1,John,Nkuna,john.nkuna@example.com,0712345678,Pretoria,2026-07-01
+2,Jane,Smith,jane.smith@example.com,0723456789,Centurion,2026-07-02
+3,David,Brown,david.brown@example.com,0734567890,Johannesburg,2026-07-03
+4,Khaya,Nkuna,khaya.nkuna@example.com,0735675927,Johannesburg,2026-07-07
+5,Thandi,Mokoena,thandi.mokoena@example.com,0821122334,Sandton,2026-07-08
+6,Sipho,Dlamini,sipho.dlamini@example.com,0834455667,Durban,2026-07-09
+7,Lerato,Khumalo,lerato.khumalo@example.com,0847788990,Cape Town,2026-07-10
+8,Michael,van der Berg,michael.vdberg@example.com,0719988776,Pretoria,2026-07-12
+9,Nomsa,Zulu,nomsa.zulu@example.com,0723344556,Soweto,2026-07-15
+10,Pieter,Botha,pieter.botha@example.com,0832211009,Bloemfontein,2026-07-18
+11,Aisha,Patel,aisha.patel@example.com,0815566778,Durban,2026-07-20
+12,Johan,Smit,johan.smit@example.com,0826677889,Centurion,2026-07-22
+13,Fatima,Hassan,fatima.hassan@example.com,0738899001,Johannesburg,2026-07-25
+14,Bongani,Mthembu,bongani.mthembu@example.com,0841122334,Pretoria,2026-07-28
+15,Sarah,Williams,sarah.williams@example.com,0714455667,Cape Town,2026-07-30

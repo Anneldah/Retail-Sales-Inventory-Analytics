@@ -1,0 +1,16 @@
+ProductCode,ProductName,UnitPrice,StockQty,Category
+P1001,Laptop,15000,45,Electronics
+P1002,Mouse,250,180,Electronics
+P1003,Keyboard,450,95,Electronics
+P1004,Monitor 27inch,4200,60,Electronics
+P1005,USB-C Hub,650,120,Electronics
+P1006,Wireless Headset,1890,75,Electronics
+P1007,External SSD 1TB,2100,50,Electronics
+P1008,Webcam HD,890,110,Electronics
+P1009,Office Chair,3500,40,Furniture
+P1010,Standing Desk,7800,25,Furniture
+P1011,Desk Lamp,450,90,Furniture
+P1012,Notebook A4 Pack,120,300,Stationery
+P1013,Ballpoint Pens (Box),85,250,Stationery
+P1014,Printer Laser,5200,30,Electronics
+P1015,Toner Cartridge,890,80,Electronics
