@@ -1,12 +1,11 @@
-Retail Sales & Inventory Analytics
+# Project Documentation
 
-An end-to-end data analytics project demonstrating how raw retail data can be ingested, transformed, stored and analysed using Azure Data Factory, Azure Blob Storage, Azure SQL Database and Power BI. The project covers ETL, SQL data processing, data modelling, DAX and interactive business intelligence reporting.
+This folder contains the documentation for the Retail Sales & Inventory Analytics project.
 
-Project Architecture
-Data Sources
-Azure Data Factory
-Azure SQL Database
-Data Model
-Power BI Dashboard
-Business Insights
-Documentation
+## Documents
+
+1. [Project Overview](01_Project_Overview.md)
+2. [Data Pipeline](02_Data_Pipeline.md)
+3. [Data Model](03_Data_Model.md)
+4. [Power BI Insights](04_Power_BI_Insights.md)
+5. [Technical Documentation](05_Technical_Documentation.md)
